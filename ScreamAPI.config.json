@@ -1,0 +1,11 @@
+{
+  "$version": 4,
+  "logging": false,
+  "eos_logging": false,
+  "block_metrics": false,
+  "default_game_status": "unlocked",
+  "override_game_status": {},
+  "override_dlc_status": {},
+  "extra_entitlements": {},
+  "mitmproxy": {}
+}

@@ -1,0 +1,13 @@
+1. Go to Epic Library
+
+2. Right click on Cities Skyline > Manage
+
+3. Find Installation > Click open install location 
+
+4. In CitiesSkylines folder go to Cities_Data\Plugins
+
+5. Change EOSSDK-Win64-Shipping.dll to EOSSDK-Win64-Shipping_o.dll
+
+6. Copy All file to this folder
+
+7. Enjoy 
